@@ -125,7 +125,7 @@ body {
 .hero {
     min-height: 92vh;
     display: flex;
-    padding-top: 100px;
+    padding-top: 90px;
     align-items: center;
     position: relative;
     overflow: hidden;
@@ -824,4 +824,5 @@ body {
 ::selection {
     background: rgba(102, 126, 234, 0.3);
     color: #e2e8f0;
+
 } 
